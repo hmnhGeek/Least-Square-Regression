@@ -7,7 +7,7 @@ Program to show the Least Square Regression method.
    
 ## test.py
 When you'll run test.py by double-clicking it, you will get this graph.
-![screenshot](https://github.com/hmnhGeek/Least-Square-Regression/blob/master/regression.png)
+![screenshot](/media/regression.png)
 
 
 ## Demo for Windows
